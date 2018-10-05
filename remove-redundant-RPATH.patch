@@ -1,4 +1,4 @@
- From 7be055c13c7d0d640941830a3291af3b404928c1 Mon Sep 17 00:00:00 2001
+From 7be055c13c7d0d640941830a3291af3b404928c1 Mon Sep 17 00:00:00 2001
 From: Hongxu Jia <hongxu.jia@windriver.com>
 Date: Mon, 27 Jun 2016 04:44:14 -0400
 Subject: [PATCH] configure.ac: remove redundant RPATH
